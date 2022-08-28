@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rasmu\\Desktop\\Code\\C#\\LanguageFeatures\\LanguageFeatures.csproj",
+      "projectUniqueName": "C:\\Users\\rasmu\\Desktop\\MyProjects\\C#\\Web-Skipanir-ASP\\05 - Language Features\\LanguageFeatures\\LanguageFeatures.csproj",
       "projectName": "LanguageFeatures",
-      "projectPath": "C:\\Users\\rasmu\\Desktop\\Code\\C#\\LanguageFeatures\\LanguageFeatures.csproj",
+      "projectPath": "C:\\Users\\rasmu\\Desktop\\MyProjects\\C#\\Web-Skipanir-ASP\\05 - Language Features\\LanguageFeatures\\LanguageFeatures.csproj",
       "packagesPath": "C:\\Users\\rasmu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rasmu\\Desktop\\Code\\C#\\LanguageFeatures\\obj\\",
+      "outputPath": "C:\\Users\\rasmu\\Desktop\\MyProjects\\C#\\Web-Skipanir-ASP\\05 - Language Features\\LanguageFeatures\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
