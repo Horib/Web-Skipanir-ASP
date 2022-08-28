@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Chap5ELF/1.0.0": {
+        "runtime": {
+          "Chap5ELF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chap5ELF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

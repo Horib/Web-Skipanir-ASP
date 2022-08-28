@@ -1,0 +1,15 @@
+C:\Users\rasmu\Desktop\Code\C#\Chap5ELF\bin\Debug\net6.0\Chap5ELF.exe
+C:\Users\rasmu\Desktop\Code\C#\Chap5ELF\bin\Debug\net6.0\Chap5ELF.deps.json
+C:\Users\rasmu\Desktop\Code\C#\Chap5ELF\bin\Debug\net6.0\Chap5ELF.runtimeconfig.json
+C:\Users\rasmu\Desktop\Code\C#\Chap5ELF\bin\Debug\net6.0\Chap5ELF.dll
+C:\Users\rasmu\Desktop\Code\C#\Chap5ELF\bin\Debug\net6.0\Chap5ELF.pdb
+C:\Users\rasmu\Desktop\Code\C#\Chap5ELF\obj\Debug\net6.0\Chap5ELF.csproj.AssemblyReference.cache
+C:\Users\rasmu\Desktop\Code\C#\Chap5ELF\obj\Debug\net6.0\Chap5ELF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\Desktop\Code\C#\Chap5ELF\obj\Debug\net6.0\Chap5ELF.AssemblyInfoInputs.cache
+C:\Users\rasmu\Desktop\Code\C#\Chap5ELF\obj\Debug\net6.0\Chap5ELF.AssemblyInfo.cs
+C:\Users\rasmu\Desktop\Code\C#\Chap5ELF\obj\Debug\net6.0\Chap5ELF.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\Desktop\Code\C#\Chap5ELF\obj\Debug\net6.0\Chap5ELF.dll
+C:\Users\rasmu\Desktop\Code\C#\Chap5ELF\obj\Debug\net6.0\refint\Chap5ELF.dll
+C:\Users\rasmu\Desktop\Code\C#\Chap5ELF\obj\Debug\net6.0\Chap5ELF.pdb
+C:\Users\rasmu\Desktop\Code\C#\Chap5ELF\obj\Debug\net6.0\Chap5ELF.genruntimeconfig.cache
+C:\Users\rasmu\Desktop\Code\C#\Chap5ELF\obj\Debug\net6.0\ref\Chap5ELF.dll
