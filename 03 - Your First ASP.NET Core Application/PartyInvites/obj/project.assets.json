@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rasmu\\Desktop\\Code\\C#\\PartyInvites\\PartyInvites.csproj",
+      "projectUniqueName": "C:\\Users\\rasmu\\Desktop\\MyProjects\\C#\\Web-Skipanir-ASP\\03 - Your First ASP.NET Core Application\\PartyInvites\\PartyInvites.csproj",
       "projectName": "PartyInvites",
-      "projectPath": "C:\\Users\\rasmu\\Desktop\\Code\\C#\\PartyInvites\\PartyInvites.csproj",
+      "projectPath": "C:\\Users\\rasmu\\Desktop\\MyProjects\\C#\\Web-Skipanir-ASP\\03 - Your First ASP.NET Core Application\\PartyInvites\\PartyInvites.csproj",
       "packagesPath": "C:\\Users\\rasmu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rasmu\\Desktop\\Code\\C#\\PartyInvites\\obj\\",
+      "outputPath": "C:\\Users\\rasmu\\Desktop\\MyProjects\\C#\\Web-Skipanir-ASP\\03 - Your First ASP.NET Core Application\\PartyInvites\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
