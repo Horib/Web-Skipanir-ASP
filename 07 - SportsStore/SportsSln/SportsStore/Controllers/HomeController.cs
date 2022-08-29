@@ -28,5 +28,10 @@ namespace SportsStore.Controllers
                     TotalItems = repository.Products.Count()
                 }
             });
+
+        public ViewResult Test()
+        {
+            return View();
+        }
     }
 }
