@@ -24,5 +24,15 @@ namespace WebApp.Controllers
                 return View(prod);
             }
         }
+
+        public IActionResult Common()
+        {
+            return View();
+        }
+
+        public IActionResult List()
+        {
+            return View(context.Products);
+        }
     }
 }
