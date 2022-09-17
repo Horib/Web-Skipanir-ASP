@@ -1,0 +1,44 @@
+﻿@model Family
+
+@*<form asp-action="Array" method="post">
+    <div class="form-group">
+        <label>Player 1</label>
+        <input asp-for="Player1." class="form-control"/>
+    </div>
+    <div class="form-group">
+        <label>Player 2</label>
+        <input name="players" class="form-control"/>
+    </div>
+    <div class="form-group">
+        <label>Player 3</label>
+        <input name="players" class="form-control"/>
+    </div>
+    <div class="form-group">
+        <label>Player 4</label>
+        <input name="players" class="form-control"/>
+    </div>
+
+    <button class="btn btn-primary" type="submit">Submit</button>
+</form>*@
+
+<form asp-action="Array" method="post">
+    @for (int i=0; i < Model.Persons.Length; i++){
+        <div class="form-group">
+            <label>Player @(i+1)</label>
+            <input asp-for="Persons[i].Name" class="form-control"/>
+        </div>
+    }
+    <button class="btn btn-primary" type="submit">Submit</button>
+</form>
+
+@if(ViewBag.Players != null)
+{
+    <h5>Players</h5>
+    <ul>
+        @foreach(var p in ViewBag.Players){
+            <li>@p</li>
+        }
+    </ul>
+
+
+}
