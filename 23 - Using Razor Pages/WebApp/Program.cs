@@ -20,9 +20,8 @@ builder.Services.AddSession(options =>
     options.Cookie.IsEssential = true;
 });
 
-builder.Services.Configure<RazorPagesOptions>(opts =>
-{
-    opts.Conventions.AddPageRoute("/Index", "/extra/page/{id:long?}");
+builder.Services.Configure<RazorPagesOptions>(opts => { 
+    opts.Conventions.AddPageRoute("/Index", "/extra/page/{id:long?}"); 
 });
 
 var app = builder.Build();
@@ -31,7 +30,8 @@ app.UseStaticFiles();
 app.UseSession();
 app.MapControllers();
 app.MapDefaultControllerRoute();
-app.MapRazorPages().Add(b => ((RouteEndpointBuilder)b).Order = 2);
+app.MapRazorPages();
+//app.MapRazorPages().Add(b => ((RouteEndpointBuilder)b).Order = 2);
 
 var context = app.Services.CreateScope().ServiceProvider
     .GetRequiredService<DataContext>();
